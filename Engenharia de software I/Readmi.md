@@ -17,6 +17,8 @@ Um bom software deve ser construído com uma boa estrutura, pois não devemos pe
 <h5> Trade Off </h5>
 
 
-Qualquer projeto que seja, devemos levar em conta quais ferramenta utilizar. Um engenheiro civil precisa analisar quais ferramentas e materiais utilizar, para cada tipo de construção.
+Qualquer projeto que seja, devemos levar em conta quais ferramenta utilizar. Um engenheiro civil precisa analisar quais ferramentas e materiais utilizar, para cada tipo de construção. Precisa ser um projeto que necessita de uma entrega rápida sem manutenção? Ou um projeto para usar a longo prazo, que necessita de correções ao longo do tempo. Cada uma das diversas ferramentas e materiais, deve ser analisado ao criar um projeto, qual é a suas vantagens e desvantagens para o projeto.
+Um confeiteiro ao criar um bolo, deve levar em conta quais marcas de ingredientes usar para o bolo, precisa ser um bolo doce ou não? Um bolo fofo? Consistente ou mole. 
+
 
   
