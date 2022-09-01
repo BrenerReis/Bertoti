@@ -12,3 +12,11 @@ Titus Winters, Software Engineering at Google
 
 
 Um bom software deve ser construído com uma boa estrutura, pois não devemos pensar apenas no nascimento de um software, mas como vai funcionar a longo prazo? como vai ser a manutenção desse código? está bem comentando para futuras correções? é um código limpo? tudo isso deve ser levado em conta quando criamos um software, pois não envolve apenas a programação, mas o raciocínio da estrutura ao todo. As linguagens de programação deve ser levado em conta para cada tipo de software, pois cada linguagem de programação tem sua vantagem e desvatagem para determinados softwares. Apenas a programação não é o suficiente para um bom software, mas devemos olhar toda sua estrutura, ferramentas, documentação etc...
+
+
+<h5> Trade Off </h5>
+
+
+Qualquer projeto que seja, devemos levar em conta quais ferramenta utilizar. Um engenheiro civil precisa analisar quais ferramentas e materiais utilizar, para cada tipo de construção.
+
+  
