@@ -20,7 +20,7 @@ Um bom software deve ser construído com uma boa estrutura, pois não devemos pe
 Qualquer projeto que seja, devemos levar em conta quais ferramenta utilizar. Um engenheiro civil precisa analisar quais ferramentas e materiais utilizar, para cada tipo de construção. Precisa ser um projeto que necessita de uma entrega rápida sem manutenção? Ou um projeto para usar a longo prazo, que necessita de correções ao longo do tempo. Cada uma das diversas ferramentas e materiais, deve ser analisado ao criar um projeto, qual é a suas vantagens e desvantagens para o projeto.
 Um confeiteiro ao criar um bolo, deve levar em conta quais marcas de ingredientes usar para o bolo, precisa ser um bolo doce ou não? Um bolo fofo? Consistente ou mole. 
 
-<strong><i><h5> Ciclo de vida do desenvolvimento de software </h5></i><strong>
+<strong><i><h5> Ciclo de vida do desenvolvimento de software </h5></i></strong>
 
 Uma empresa de telemarketing, o qual atende linhas pré-pago está com um grande fluxo de ligações nos últimos tempos, e para resolver esse problema, eles resolveram criar um software básico para seus clientes, o qual o usuário consegue resolver seu problema de uma forma prática e eficiente. Primeiramente eles fazem uma análise sobre as ligações, quais são as maiores solicitações e reclamações de seus clientes, e logo após essa análise, eles iniciam a criação do software com alguns requisitos básicos. Fazem a definição dos requisitos funcionais e não funcionais do sistema, e criam um protótipo desse software, analisam a melhor linguagem de programação para o software ter um bom desempenho, e pensam em uma estrutura de dados do código o qual eles podem fazer uma futura manutenção de uma forma eficiente.
 
