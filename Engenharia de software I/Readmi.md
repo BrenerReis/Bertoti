@@ -20,5 +20,17 @@ Um bom software deve ser construído com uma boa estrutura, pois não devemos pe
 Qualquer projeto que seja, devemos levar em conta quais ferramenta utilizar. Um engenheiro civil precisa analisar quais ferramentas e materiais utilizar, para cada tipo de construção. Precisa ser um projeto que necessita de uma entrega rápida sem manutenção? Ou um projeto para usar a longo prazo, que necessita de correções ao longo do tempo. Cada uma das diversas ferramentas e materiais, deve ser analisado ao criar um projeto, qual é a suas vantagens e desvantagens para o projeto.
 Um confeiteiro ao criar um bolo, deve levar em conta quais marcas de ingredientes usar para o bolo, precisa ser um bolo doce ou não? Um bolo fofo? Consistente ou mole. 
 
+<h5> Ciclo de vida do desenvolvimento de software </h5>
+
+Uma empresa de telemarketing, o qual atende linhas pré-pago está com um grande fluxo de ligações nos últimos tempos, e para resolver esse problema, eles resolveram criar um software básico para seus clientes, o qual o usuário consegue resolver seu problema de uma forma prática e eficiente. Primeiramente eles fazem uma análise sobre as ligações, quais são as maiores solicitações e reclamações de seus clientes, e logo após essa análise, eles iniciam a criação do software com alguns requisitos básicos. Fazem a definição dos requisitos funcionais e não funcionais do sistema, e criam um protótipo desse software, analisam a melhor linguagem de programação para o software ter um bom desempenho, e pensam em uma estrutura de dados do código o qual eles podem fazer uma futura manutenção de uma forma eficiente.
+
+1.	Interface de login front-end: Definir boa cores, deixando um ambiente prático e bonito o qual o cliente consegue enxergar tudo perfeitamente, e chamar atenção de clientes novos que irá utilizar o software futuramente. Adicionar instruções para os usuários, de como acessar o login e de como realizar um cadastro caso não tenha um login ainda.
+2.	Interface de configurações e informações sobre os planos: Boas cores, instrução de como usar o canal de configurações e informações, utilizar imagens com base em experiência real dos usuários, um site limpo o qual o cliente não fique perdido. 
+3.	Interface de reclamação: Boas cores, instruções de como utilizar o canal de reclamações, informações sobre quando realizar uma reclamação ou não, solicitando alguns testes antes de abrir qualquer reclamação, para uma melhor análise do sistema.
+4.	Implementação do banco de dados: Incluir os clientes no banco de dados, para obter informações e analisar a necessidade de cada cliente, para assim oferecer uma experiência boa e única para cada usuário, criando um sistema eficiente.
+
+
+
+
 
   
