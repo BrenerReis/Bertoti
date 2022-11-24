@@ -41,17 +41,17 @@ Um restaurante estabelece um sistema chamado garçom para o cadastro de clientes
 •	Cadastro de clientes: Realiza o cadastro do cliente com os seguintes dados, nome e pedido;<br>
 •	Cadastro de pedidos: Introduz os dados, numeroDaMesa, horaDoPedido, tipoDeGrao, tipoDeSalada, acompanhamento; 
 
-<i><h4> Diagrama de Casos de Uso </h4></i>
+<strong><h4> Diagrama de Casos de Uso </h4></strong>
 
 <img src = "https://user-images.githubusercontent.com/101937633/203674418-aa042d1f-f48a-4059-8a43-a36304952b4b.png" />
 <br>
-<i><h4> Requisitos Não Funcionais </h4></i>
+<strong><h4> Requisitos Não Funcionais </h4></strong>
 
 •	Usabilidade<br>
 •	Transparência<br>
 •	Plataforma Intuitiva e Flexível<br>
 
-<i><h4> Diagrama de Classes UML </h4></i>
+<strong><h4> Diagrama de Classes UML </h4></strong>
 
 <img src = "https://user-images.githubusercontent.com/101937633/203674763-646586e8-ce25-4851-911f-3e0ca70bf8af.png" />
 
