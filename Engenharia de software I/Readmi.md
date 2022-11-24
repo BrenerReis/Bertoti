@@ -48,7 +48,7 @@ Um restaurante estabelece um sistema chamado garçom para o cadastro de clientes
 
 <strong><h4> Diagrama de Classes UML </h4></strong>
 
-<img src = "https://user-images.githubusercontent.com/101937633/203674763-646586e8-ce25-4851-911f-3e0ca70bf8af.png" />
+<img src = "https://user-images.githubusercontent.com/101937633/203813781-209e9607-4368-45ad-96dc-f2c8536bc766.png" />
 
 
 
