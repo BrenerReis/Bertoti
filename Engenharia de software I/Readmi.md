@@ -31,6 +31,21 @@ Uma empresa de telemarketing, o qual atende linhas pré-pago está com um grande
 4.	Implementação do banco de dados: Incluir os clientes no banco de dados, para obter informações e analisar a necessidade de cada cliente, para assim oferecer uma experiência boa e única para cada usuário, criando um sistema eficiente.
 
 
+<i><h5> Atividade de requisitos </h5></i>
+<hr>
+Situação<br><br><br>
+Um restaurante estabelece um sistema chamado garçom para o cadastro de clientes, onde ele poderá localizar por seu nome ou através dos atributos incluído no pedido, sendo possível comparar os dados entre os pedidos.<br><br>
+Requisitos Funcionais<br><br>
+•	Cadastro de clientes: Realiza o cadastro do cliente com os seguintes dados, nome e pedido;<br>
+•	Cadastro de pedidos: Introduz os dados, numeroDaMesa, horaDoPedido, tipoDeGrao, tipoDeSalada, acompanhamento; 
+
+<i><h5> Diagrama de Casos de Uso </h5></i>
+
+
+
+
+
+
 
 
 
