@@ -12,14 +12,14 @@ Titus Winters, Software Engineering at Google
 
 <strong><h3> Engenharia de Software </h3></strong>
 
-Um bom software deve ser construído com uma boa estrutura, pois não devemos pensar apenas no nascimento de um software, mas como vai funcionar a longo prazo? como vai ser a manutenção desse código? está bem comentando para futuras correções? é um código limpo? tudo isso deve ser levado em conta quando criamos um software, pois não envolve apenas a programação, mas o raciocínio da estrutura ao todo. As linguagens de programação deve ser levado em conta para cada tipo de software, pois cada linguagem de programação tem sua vantagem e desvatagem para determinados softwares. Apenas a programação não é o suficiente para um bom software, mas devemos olhar toda sua estrutura, ferramentas, documentação etc...
+Um bom software deve ser construído com uma boa estrutura, pois não devemos pensar apenas no nascimento de um software, mas como vai funcionar a longo prazo, como vai ser a manutenção desse código? Está bem comentando para futuras correções? É um código limpo? Tudo isso deve ser levado em conta quando criamos um software, pois não envolve apenas a programação, mas o raciocínio da estrutura ao todo. As linguagens de programação deve ser levado em conta para cada tipo de software, pois cada linguagem de programação tem sua vantagem e desvatagem para determinados softwares. Apenas a programação não é o suficiente para um bom software, mas devemos olhar toda sua estrutura, ferramentas, documentação etc...
 <hr>
 
 <strong><h3> Trade Off </h3></strong>
 
 
 Qualquer projeto que seja, devemos levar em conta quais ferramenta utilizar. Um engenheiro civil precisa analisar quais ferramentas e materiais utilizar, para cada tipo de construção. Precisa ser um projeto que necessita de uma entrega rápida sem manutenção? Ou um projeto para usar a longo prazo, que necessita de correções ao longo do tempo. Cada uma das diversas ferramentas e materiais, deve ser analisado ao criar um projeto, qual é a suas vantagens e desvantagens para o projeto.
-Um confeiteiro ao criar um bolo, deve levar em conta quais marcas de ingredientes usar para o bolo, precisa ser um bolo doce ou não? Um bolo fofo? Consistente ou mole. 
+Um confeiteiro ao criar um bolo, deve levar em conta quais marcas de ingredientes usar para o bolo, precisa ser um bolo doce ou não? Um bolo fofo? Consistente ou inconsistente. 
 <hr>
 <strong><h3> Ciclo de vida do desenvolvimento de software </h3></strong>
 
