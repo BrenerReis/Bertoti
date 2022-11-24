@@ -41,7 +41,20 @@ Requisitos Funcionais<br><br>
 
 <i><h5> Diagrama de Casos de Uso </h5></i>
 
-<img src = "https://github.com/BrenerReis/Bertoti/issues/1#issue-1462628451">
+<img src = "https://user-images.githubusercontent.com/101937633/203674418-aa042d1f-f48a-4059-8a43-a36304952b4b.png" />
+<br>
+Requisitos Não Funcionais
+
+•	Usabilidade<br>
+•	Transparência<br>
+•	Plataforma Intuitiva e Flexível	<br>
+
+<i><h5> Diagrama de Classes UML </h5></i>
+
+<img src = "https://user-images.githubusercontent.com/101937633/203674763-646586e8-ce25-4851-911f-3e0ca70bf8af.png" />
+
+
+
 
 
 
