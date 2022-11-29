@@ -50,6 +50,26 @@ Um restaurante estabelece um sistema chamado garçom para o cadastro de clientes
 
 <img src = "https://user-images.githubusercontent.com/101937633/203813781-209e9607-4368-45ad-96dc-f2c8536bc766.png" />
 
+<strong><h3> Desenvolvimento </h3></strong>
+
+<strong><h4> Classe Cliente </h4></strong>
+
+<img src = "https://user-images.githubusercontent.com/101937633/204535862-d16762bc-82b2-426a-9136-00a9a8e9c361.png" />
+
+<strong><h4> Classe Pedido </h4></strong>
+
+<img src = "https://user-images.githubusercontent.com/101937633/204536267-ddeb15a7-8dfd-4f92-9feb-4b9ec348375e.png" />
+
+
+<strong><h4> Classe Restaurante </h4></strong>
+
+<Img src = "https://user-images.githubusercontent.com/101937633/204536389-d395a141-4720-429e-a1c1-2f5414c3c6e0.png" />
+
+<strong><h4> Teste </h4></strong>
+
+<img src = "https://user-images.githubusercontent.com/101937633/204536527-37d42e26-aa79-4f18-b76d-19cc00b8bedc.png" />
+
+
 
 
 
