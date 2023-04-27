@@ -1,3 +1,6 @@
+# Bertoti
+Engenharia de software I
+
 "We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. 
 On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. 
 In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. 
@@ -68,15 +71,3 @@ Um restaurante estabelece um sistema chamado garçom para o cadastro de clientes
 <strong><h4> Teste </h4></strong>
 
 <img src = "https://user-images.githubusercontent.com/101937633/204536527-37d42e26-aa79-4f18-b76d-19cc00b8bedc.png" />
-
-
-
-
-
-
-
-
-
-
-
-  
