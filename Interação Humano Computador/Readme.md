@@ -43,6 +43,8 @@ O Spotify tem uma interface de usuário consistente em todas as plataformas, inc
 
 Um exemplo ruim de falta de consistência e padrões pode ser encontrado em alguns sites de comércio eletrônico que têm uma interface desorganizada e desestruturada, com diferentes páginas apresentando diferentes layouts e estilos visuais. Isso pode ser especialmente confuso para os usuários, que podem se sentir perdidos ou desorientados ao navegar pelo site.
 
+![image](https://github.com/BrenerReis/Bertoti/assets/101937633/76e2789b-1e40-4674-97f4-25d1a33f9fe2)
+
 <h2>Prevenção de erros</h2>
 
 Essa heurística foca em criar uma plataforma que busca prevenir que problemas ocorram, eliminando condições mais propensas ao erro, isso pode ser feito sinalizando ações como quando o usuário não finalizou uma tarefa e pede para sair da página ou oferecendo a ele uma opção de confirmação antes de completar uma ação.
