@@ -71,3 +71,20 @@ O site do Dropbox apresenta um design simples e elegante, com muito espaço em b
 
 ![image](https://github.com/BrenerReis/Bertoti/assets/101937633/9fc6cc2b-89f1-4701-bdc0-b082f3c7d72d)
 
+<h2>Ajude os usuários a reconhecer, diagnosticar e recuperar-se de erros</h2>
+
+Um exemplo de site que utiliza a heurística de ajudar os usuários a reconhecer, diagnosticar e recuperar-se de erros é o site do WordPress.
+O WordPress é uma plataforma de criação de sites que permite aos usuários criar, editar e publicar sites. Como qualquer software, pode haver momentos em que ocorrem erros ou problemas técnicos ao usar o WordPress.
+No entanto, o WordPress tem recursos integrados para ajudar os usuários a identificar e corrigir erros. Por exemplo, quando um usuário tenta fazer login em sua conta do WordPress com credenciais inválidas, o WordPress exibe uma mensagem de erro clara indicando que as informações de login estão incorretas e fornecendo opções para recuperar a senha ou entrar em contato com o suporte.
+
+![image](https://github.com/BrenerReis/Bertoti/assets/101937633/89342f23-551f-4251-8ee8-1745feaa40b5)
+
+
+<h2>Ajuda e documentação</h2>
+
+Um exemplo de site que utiliza a heurística de ajuda e documentação é o Stack Overflow, uma plataforma de perguntas e respostas relacionadas à programação e desenvolvimento de software.
+O Stack Overflow tem uma ampla documentação de suporte que inclui guias, tutoriais e artigos para ajudar os usuários a encontrar respostas para suas perguntas. Além disso, o Stack Overflow tem uma comunidade ativa de desenvolvedores e programadores que fornecem suporte e respostas para perguntas específicas.
+A plataforma também tem recursos integrados para ajudar os usuários a encontrar respostas para suas perguntas, incluindo sugestões de pesquisa e tags relacionados. Os usuários podem votar em respostas úteis e fornecer feedback, ajudando a melhorar a qualidade das respostas fornecidas.
+
+![image](https://github.com/BrenerReis/Bertoti/assets/101937633/93704144-3727-4c75-85c5-665bc4f61002)
+
