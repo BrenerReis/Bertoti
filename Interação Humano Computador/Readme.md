@@ -10,12 +10,12 @@ Um exemplo ruim de heurística de visibilidade é quando um site coloca informa�
 
 <h2>Correspondência entre o sistema e o mundo real</h2>
 
-Um site que utiliza a heurística de correspondência entre o sistema e o mundo real é o aplicativo de GPS Waze. Ele apresenta informações de direção e navegação de forma clara e concisa, usando ícones e termos que são familiares aos usuários e correspondem ao que eles encontram no mundo real.
+Um exemplo de site que utiliza a heurística de correspondência entre o sistema e o mundo real é o aplicativo de GPS Waze. Ele apresenta informações de direção e navegação de forma clara e concisa, usando ícones e termos que são familiares aos usuários e correspondem ao que eles encontram no mundo real.
 Por exemplo, o aplicativo usa ícones claros para indicar postos de gasolina, restaurantes, pontos de interesse e outras informações importantes que os usuários podem encontrar em suas rotas. Ele também usa termos comuns, como "vire à direita" ou "vire à esquerda", em vez de termos técnicos ou confusos. Isso torna o aplicativo fácil de usar e ajuda os usuários a se orientarem no mundo real, correspondendo às expectativas e conhecimentos prévios dos usuários.
 
 ![Waze](https://github.com/BrenerReis/Bertoti/assets/101937633/eca18ad1-bde5-4057-97f1-4b274f59b7f6)
 
-Um que site que viola a heurística de correspondência entre o sistema e o mundo real poderia ser um site de comércio eletrônico que use termos e jargões técnicos para descrever seus produtos, em vez de usar termos simples e comuns que sejam facilmente compreensíveis para os usuários.
+Um exemplo de site que viola a heurística de correspondência entre o sistema e o mundo real poderia ser um site de comércio eletrônico que use termos e jargões técnicos para descrever seus produtos, em vez de usar termos simples e comuns que sejam facilmente compreensíveis para os usuários.
 Isso pode tornar difícil para os usuários entenderem o que estão comprando e quais são as características do produto. Por exemplo, se o site estiver vendendo um laptop e usar termos como "processador i5" ou "memória RAM DDR4" sem explicá-los de forma clara e compreensível para os usuários, isso pode ser confuso e desencorajar as pessoas a fazerem compras no site. O site estaria violando a heurística de correspondência entre o sistema e o mundo real, pois os termos e conceitos usados devem corresponder à compreensão do mundo real dos usuários e não serem muito técnicos ou confusos.
 
 ![Ali](https://github.com/BrenerReis/Bertoti/assets/101937633/9abaa099-11be-4876-a4aa-4177b0854531)
@@ -60,7 +60,7 @@ Um exemplo de site que utiliza a heurística de reconhecimento em vez de lembran
 
 <h2>Flexibilidade e eficiência de uso</h2>
 
-site que utiliza a heurística de flexibilidade e eficiência de uso é o Trello, um aplicativo de gerenciamento de projetos e tarefas.
+Um exemplo de site que utiliza a heurística de flexibilidade e eficiência de uso é o Trello, um aplicativo de gerenciamento de projetos e tarefas.
 O Trello permite aos usuários criar quadros personalizados, listas e cartões para gerenciar tarefas de forma flexível e eficiente. Os usuários podem personalizar a aparência de seus quadros e cartões, adicionar comentários, anexar arquivos e configurar lembretes para ajudá-los a gerenciar suas tarefas de forma mais eficiente.
 
 ![image](https://github.com/BrenerReis/Bertoti/assets/101937633/4f2d7949-216e-4fd4-aaee-b3802d65bb49)
