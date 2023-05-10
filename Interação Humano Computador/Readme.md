@@ -50,6 +50,7 @@ Um exemplo disso é o Outlook, que mostra uma caixa de confirmação quando o us
 
 ![Outlook](https://github.com/BrenerReis/Bertoti/assets/101937633/56f205ff-9f0c-4d09-b973-154e63ef15eb)
 
+<h2>Reconhecimento em vez de lembrança</h2>
 
 Um exemplo de site que utiliza a heurística de reconhecimento em vez de lembrança é o Google. Quando você faz uma pesquisa no Google, ele exibe uma lista de resultados com títulos e descrições que correspondem à sua pesquisa. Em vez de exigir que você lembre o site específico que está procurando, o Google oferece uma lista de opções para você escolher com base no reconhecimento dos títulos e descrições. Isso torna mais fácil para o usuário encontrar o que procura sem precisar lembrar do nome exato do site ou da página que precisa visitar.
 
