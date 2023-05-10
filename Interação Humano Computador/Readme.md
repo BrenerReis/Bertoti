@@ -56,3 +56,10 @@ Um exemplo de site que utiliza a heurística de reconhecimento em vez de lembran
 
 ![image](https://github.com/BrenerReis/Bertoti/assets/101937633/0a130cd2-9695-44bc-8ab8-ece45b8e3db9)
 
+<h2>Flexibilidade e eficiência de uso</h2>
+
+site que utiliza a heurística de flexibilidade e eficiência de uso é o Trello, um aplicativo de gerenciamento de projetos e tarefas.
+O Trello permite aos usuários criar quadros personalizados, listas e cartões para gerenciar tarefas de forma flexível e eficiente. Os usuários podem personalizar a aparência de seus quadros e cartões, adicionar comentários, anexar arquivos e configurar lembretes para ajudá-los a gerenciar suas tarefas de forma mais eficiente.
+
+![image](https://github.com/BrenerReis/Bertoti/assets/101937633/4f2d7949-216e-4fd4-aaee-b3802d65bb49)
+
