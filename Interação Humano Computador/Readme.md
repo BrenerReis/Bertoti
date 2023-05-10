@@ -63,3 +63,11 @@ O Trello permite aos usuários criar quadros personalizados, listas e cartões p
 
 ![image](https://github.com/BrenerReis/Bertoti/assets/101937633/4f2d7949-216e-4fd4-aaee-b3802d65bb49)
 
+
+<h2>Design estético e minimalista</h2>
+
+Um exemplo de site que usa a heurística de design estético e minimalista é o Dropbox.
+O site do Dropbox apresenta um design simples e elegante, com muito espaço em branco e elementos visuais mínimos. O objetivo do design minimalista é tornar a navegação do site mais fácil e intuitiva, reduzindo a desordem visual e enfatizando as funções principais do serviço.
+
+![image](https://github.com/BrenerReis/Bertoti/assets/101937633/9fc6cc2b-89f1-4701-bdc0-b082f3c7d72d)
+
