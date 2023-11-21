@@ -1,8 +1,15 @@
 import java.util.List;
 
-public interface View {
-    void setC(Conta conta);
-    void update(List<Conta> contaList);
-    void imprimirDadosSistema();
-    void criarContaBancaria();
+public class View {
+    private Modelo modelo;
+    private List<Carro> carros;
+
+    public void setCarro(Carro c) {
+        this.carros.add(c);
+    }
+
+    public void update(List<Carro> carros) {
+        this.carros = carros;
+    }
 }
+
